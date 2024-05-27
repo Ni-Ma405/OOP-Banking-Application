@@ -1,7 +1,7 @@
 ################################
 # Nima Dorji
 # 1ECE
-# 0223009
+# 02230099
 ################################
 # REFERENCES
 # https://www.dataquest.io/blog/read-file-python/#:~:text=Python%20provides%20a%20built%2Din,we%20can%20manipulate%20its%20content
