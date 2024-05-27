@@ -1,4 +1,15 @@
-#FCollowing packages are imported to be used in the code below
+################################
+# Nima Dorji
+# 1ECE
+# 0223009
+################################
+# REFERENCES
+# https://www.dataquest.io/blog/read-file-python/#:~:text=Python%20provides%20a%20built%2Din,we%20can%20manipulate%20its%20content
+# https://www.w3schools.com/python/python_file_open.asp
+#https://chat.openai.com/
+################################
+
+#Following packages are imported to be used in the code below
 import os
 import random
 import string
